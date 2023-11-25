@@ -1,0 +1,7 @@
+{
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "files.associations": {
+    "plyconfig.json": "jsonc"
+  }
+}
